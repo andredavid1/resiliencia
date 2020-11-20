@@ -6,3 +6,7 @@ Landing Page Template
 
 React.js
 Typescript
+
+### Acesse
+
+https://resiliencia.netlify.app/
